@@ -1,5 +1,5 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
+title: 임누리
+description: 웹 & 안드로이드앱 개발자
 site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
@@ -7,15 +7,15 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: NurisPocket
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: dlasnfl24@gmail.com
+keybase_username: dlasnfl24
+twitter_username: dlasnfl24@gmail.com
+reddit_username: dlasnfl24
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: /assets/images/nuri.jpg
 
 # Google Analytics ID
 google_analytics: 
