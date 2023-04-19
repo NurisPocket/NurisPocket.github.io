@@ -1,5 +1,5 @@
-title: 임누리
-description: 웹 & 안드로이드앱 개발자
+title: NURI LIM
+description: Web & Android app Engineer
 site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
@@ -8,7 +8,7 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: NurisPocket
-blog_url: https://www.nagekar.com
+blog_url: 
 email: dlasnfl24@gmail.com
 keybase_username: dlasnfl24
 twitter_username: dlasnfl24@gmail.com
