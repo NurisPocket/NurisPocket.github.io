@@ -25,6 +25,14 @@ let render_projects = (slug) => {
             technologies: ['Java','Django','React','Html5','Css3'],
             description: "자기 취향에 따라 계절에 맞게 옷을 자동적으로 코디 및 추천해주는 서비스",
             categories: ['webdev']
+        },
+        {
+            image: 'assets/images/hs.jpg',
+            link: 'https://github.com/NurisPocket/HanseoHelper',
+            title: 'HanseoHelper',
+            technologies: ['Java','Kotlin'],
+            description: "학교내에 학생들을 대상으로한 다목적 심부름 안드로이드 앱",
+            categories: ['native']
         } 
     ]
 
