@@ -17,15 +17,7 @@ let render_projects = (slug) => {
             technologies: ['Java'],
             description: "자바만을 사용하여 만든 주사위 게임 야추",
             categories: ['webdev']
-        },
-        {
-            image: 'assets/images/lookwearfashion.jpg',
-            link: 'https://github.com/NurisPocket/lookwearfashion',
-            title: 'LookWearFashion',
-            technologies: ['Java'],
-            description: "자기 취향에 따라 계절에 맞게 옷을 자동적으로 코디 및 추천해주는 서비스",
-            categories: ['webdev']
-        } 
+        }
     ]
 
     let projects = [];
